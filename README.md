@@ -1,4 +1,6 @@
 # Password-Checker
+Its Motive is tell that whether your password is UNIQUE and SAFE or not.
+
 This is python script that tells whether "Given Password" is being found in the data breach or not.
 If any user around the world have used "Given Password" for authentication and if that password is found in data breached password list then this script retruns number of times this password is being found.
 
